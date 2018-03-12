@@ -1,0 +1,14 @@
+C:\Users\Christian\Desktop\CRUDChristian\CRUDChristian\bin\Debug\CRUDChristian.exe.config
+C:\Users\Christian\Desktop\CRUDChristian\CRUDChristian\bin\Debug\CRUDChristian.exe
+C:\Users\Christian\Desktop\CRUDChristian\CRUDChristian\bin\Debug\CRUDChristian.pdb
+C:\Users\Christian\Desktop\CRUDChristian\CRUDChristian\obj\Debug\CRUDChristian.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Desktop\CRUDChristian\CRUDChristian\obj\Debug\CRUDChristian.Form1.resources
+C:\Users\Christian\Desktop\CRUDChristian\CRUDChristian\obj\Debug\CRUDChristian.Properties.Resources.resources
+C:\Users\Christian\Desktop\CRUDChristian\CRUDChristian\obj\Debug\CRUDChristian.csproj.GenerateResource.Cache
+C:\Users\Christian\Desktop\CRUDChristian\CRUDChristian\obj\Debug\CRUDChristian.exe
+C:\Users\Christian\Desktop\CRUDChristian\CRUDChristian\obj\Debug\CRUDChristian.pdb
+C:\Users\Christian\Desktop\CRUDChristian\CRUDChristian\obj\Debug\CRUDChristian.Form2.resources
+C:\Users\Christian\Desktop\CRUDChristian\CRUDChristian\obj\Debug\CRUDChristian.Form3.resources
+C:\Users\Christian\Desktop\CodigosCSHARP\CRUDChristian\CRUDChristian\bin\Debug\CRUDChristian.exe.config
+C:\Users\Christian\Desktop\CodigosCSHARP\CRUDChristian\CRUDChristian\obj\Debug\CRUDChristian.exe
+C:\Users\Christian\Desktop\CodigosCSHARP\CRUDChristian\CRUDChristian\obj\Debug\CRUDChristian.pdb
