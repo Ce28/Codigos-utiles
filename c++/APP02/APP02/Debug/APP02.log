@@ -1,0 +1,18 @@
+﻿Compilación iniciada a las 11/03/2018 01:16:27 p. m..
+     1>Proyecto "C:\Users\Christian\Desktop\APP02\APP02\APP02.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\APP02.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt APP02Dlg.cpp
+         APP02Dlg.cpp
+     1>c:\users\christian\desktop\app02\app02\app02dlg.cpp(107): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.inl(112) : vea la declaración de 'localtime'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Christian\Desktop\APP02\Debug\APP02.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Christian\Desktop\APP02\Debug\APP02.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Christian\Desktop\APP02\Debug\APP02.lib" /MACHINE:X86 Debug\APP02.res
+         Debug\APP02.obj
+         Debug\APP02Dlg.obj
+         Debug\stdafx.obj
+         APP02.vcxproj -> C:\Users\Christian\Desktop\APP02\Debug\APP02.exe
+     1>Compilación del proyecto terminada "C:\Users\Christian\Desktop\APP02\APP02\APP02.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.33
